@@ -3,7 +3,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Engenharia da Computação** na Universidade Federal de Pelotas.
 
-<h3>Recursos em aprendizado contínuo</h3>
+<h3>Competências</h3>
 
 **Aplicações e dados**
 
