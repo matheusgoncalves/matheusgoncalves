@@ -9,8 +9,8 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["PHP, JavaScript, C, CSS, HTML5"];
-  frameworks = ["Laravel, Vue.js, Tailwind, Bootstrap"];
+  linguagens = ["PHP", "JavaScript", "C", "CSS", "HTML5"];
+  frameworks = ["Laravel", "Vue.js", "Tailwind","Bootstrap"];
   basesDeDados = ["PostgreSQL"];
 }
 ```
