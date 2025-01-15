@@ -3,9 +3,10 @@ import Developer from "matheusgoncalves";
 
 class About extends Developer {
   name = "Matheus Soares Gonçalves";
-  description = "A passionate software developer with expertise in full-stack development and hunger for knowledge. :)"
+  description = "A passionate software developer with expertise in full-stack development and hunger for knowledge. :)";
   field = "Full Stack Development";
   residence = "Brasil, Rio Grande do Sul";
+  resume = "https://docs.google.com/document/d/1LPzh_t_flYJRFKv-B71xPaMmQiM7qgyQlE5oT5B-UPk/edit?usp=sharing";
 }
 
 class Skills extends Developer {
