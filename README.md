@@ -17,4 +17,4 @@ class Skills extends Developer {
   productivity = ["Notion", "Confluence", "Jira"];
 }
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgoncalves&bg_color=151b23&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgoncalves&text_color=a5d6ff&bg_color=151b23&hide_border=true&layout=compact)
