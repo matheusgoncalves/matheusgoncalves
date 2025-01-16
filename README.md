@@ -15,6 +15,7 @@ class Skills extends Developer {
   database = ["PostgreSQL", "SQL", "Supabase"];
   tools = ["Git", "Docker"];
   productivity = ["Notion", "Confluence", "Jira"];
+  design = ["Figma", "Adobe Photoshop"];
 }
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgoncalves&text_color=a5d6ff&bg_color=151b23&hide_border=true&layout=compact)
